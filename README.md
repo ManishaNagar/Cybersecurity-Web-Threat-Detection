@@ -106,6 +106,7 @@ The dataset contains suspicious web interaction and traffic-related information.
 This project uses supervised Machine Learning techniques to detect suspicious web threats and classify attack patterns.
 
 ### Algorithms Used
+
 - Logistic Regression
 - Random Forest
 - Decision Tree
@@ -127,7 +128,7 @@ This project uses supervised Machine Learning techniques to detect suspicious we
 <img width="418" height="306" alt="image" src="https://github.com/user-attachments/assets/4f06816f-a46c-4a84-afb0-9531fffd5cac" />
 </br>
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 Through this project, I learned:
 
@@ -140,7 +141,8 @@ Data Visualization
 Model Evaluation
 
 
-🌟 Future Improvements
+# 🌟 Future Improvements
+
 Real-time threat detection system
 Deep learning-based intrusion detection
 Interactive cybersecurity dashboard
@@ -148,14 +150,16 @@ Deployment using Flask or Streamlit
 Advanced anomaly detection techniques
 
 
-🙋‍♀️ Author
+# 🙋‍♀️ Author
+
 Manisha Nagar
 
-Connect With Me
-LinkedIn: www.linkedin.com/in/nagar-manisha
+# Connect With Me
+
+LinkedIn: www.linkedin.com/in/nagar-manisha</br>
 GitHub: https://github.com/ManishaNagar
 
 
-⭐ If You Like This Project
+# ⭐ If You Like This Project
 
 Give this repository a ⭐ on GitHub and share your feedback.
